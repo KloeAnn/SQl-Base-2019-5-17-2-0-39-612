@@ -25,8 +25,4 @@
 
 请用SQL实现上面的需求并将实现的效果截图说明。
 
-![1562067763139](C:\Users\ann\AppData\Roaming\Typora\typora-user-images\1562067763139.png)
-
-![1562067797547](C:\Users\ann\AppData\Roaming\Typora\typora-user-images\1562067797547.png)
-
-![1562067827420](C:\Users\ann\AppData\Roaming\Typora\typora-user-images\1562067827420.png)
+![333](C:\Users\ann\Desktop\333.png)![222](C:\Users\ann\Desktop\222.png)![111](C:\Users\ann\Desktop\111.png)
