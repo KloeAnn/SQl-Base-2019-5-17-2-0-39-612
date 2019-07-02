@@ -24,3 +24,9 @@
    |  4   |    002     |    1002    | 60.5  |
 
 请用SQL实现上面的需求并将实现的效果截图说明。
+
+![1562067763139](C:\Users\ann\AppData\Roaming\Typora\typora-user-images\1562067763139.png)
+
+![1562067797547](C:\Users\ann\AppData\Roaming\Typora\typora-user-images\1562067797547.png)
+
+![1562067827420](C:\Users\ann\AppData\Roaming\Typora\typora-user-images\1562067827420.png)
